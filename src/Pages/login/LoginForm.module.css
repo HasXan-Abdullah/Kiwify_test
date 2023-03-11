@@ -1,0 +1,16 @@
+.formField:focus {
+  box-shadow: 0 0 0 3px rgb(164 202 254 / 45%);
+}
+
+.formFieldError {
+  border: 1px solid red;
+}
+.formFieldErrorMessage {
+  margin-top: 5px;
+}
+
+.formcheckbox:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgb(164 202 254 / 45%);
+  border-color: #a4cafe;
+}
